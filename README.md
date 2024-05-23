@@ -1,15 +1,6 @@
 # Lelly maps
 it's split into two projects, first is a path finding using different algorithms(BFS, A*, ..etc) from point to point in our univsiryt map, and secondly, a reinforcement learing task, that the agent learnt how to pick up some items and drop them into another buildings.
 
-# Reinforcement learning
-
-It needs to pick objects and deliver them from one location to another inside ZC with the minimum number of steps. The pickup locations are the NB and HB, meanwhile the drop off buildings are the AB and the One-stop-shop. Assume that each pickup location contains 4 items to be delivered and that each delivery location can have at most 4 items. The agent can’t hold more than one item. Your goal is to design a route for the agent to send all items from pick-up locations to delivery locations with the shortest path using Q-learning.
-
-we tranined it for 6000 iterations, 3k in exploring, and 3k in random.
-
-
-
-https://user-images.githubusercontent.com/69484554/211532741-070389fd-ba82-4fcf-ad4e-c8161e5ff869.mp4
 
 
 # Lelly maps
